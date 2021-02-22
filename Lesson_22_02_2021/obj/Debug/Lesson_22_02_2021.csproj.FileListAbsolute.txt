@@ -1,0 +1,7 @@
+D:\.AProject\C#\OOP\22-02-2021_First_Lesson\Lesson_22_02_2021\obj\Debug\Lesson_22_02_2021.csprojAssemblyReference.cache
+D:\.AProject\C#\OOP\22-02-2021_First_Lesson\Lesson_22_02_2021\obj\Debug\Lesson_22_02_2021.csproj.CoreCompileInputs.cache
+D:\.AProject\C#\OOP\22-02-2021_First_Lesson\Lesson_22_02_2021\bin\Debug\Lesson_22_02_2021.exe.config
+D:\.AProject\C#\OOP\22-02-2021_First_Lesson\Lesson_22_02_2021\bin\Debug\Lesson_22_02_2021.exe
+D:\.AProject\C#\OOP\22-02-2021_First_Lesson\Lesson_22_02_2021\bin\Debug\Lesson_22_02_2021.pdb
+D:\.AProject\C#\OOP\22-02-2021_First_Lesson\Lesson_22_02_2021\obj\Debug\Lesson_22_02_2021.exe
+D:\.AProject\C#\OOP\22-02-2021_First_Lesson\Lesson_22_02_2021\obj\Debug\Lesson_22_02_2021.pdb
